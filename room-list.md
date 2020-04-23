@@ -2,7 +2,8 @@
 
 A list of locations hyperlinked to handouts
 
-```o/w gm &{template:npcaction} {{name=Level1}} {{rname=Areas}} {{description=[4: Main Entrance](http://journal.roll20.net/handout/-L8SAbEuMHYqaYtxro4m)
+```
+/w gm &{template:npcaction} {{name=Level1}} {{rname=Areas}} {{description=[4: Main Entrance](http://journal.roll20.net/handout/-L8SAbEuMHYqaYtxro4m)
 [5: Guard Room](http://journal.roll20.net/handout/-L8S7x-bLu7rFNrxBDId)
 [6: Boss' Room](http://journal.roll20.net/handout/-L8Rzw0d-e9NMtsJVVZ7)
 [7: Descent](http://journal.roll20.net/handout/-L8SGjFQKh3tbJDBgI03)
